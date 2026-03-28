@@ -44,3 +44,9 @@ This project is a **Computer Vision-based Virtual Whiteboard** that allows users
 ```bash
 git clone https://github.com/your-username/ai-gesture-virtual-whiteboard.git
 cd ai-gesture-virtual-whiteboard
+```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
